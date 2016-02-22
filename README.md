@@ -6,7 +6,7 @@ Ben Stone(a.k.a Farshooter)
 This is a simple 2D game using LibGDX as its engine.
 
 ## Motivation
-This project was created so I could get some practice with implementing a scripting language into LibGDX.
+This project was created because I wanted to have some fun with LibGDX.
 
 ##Installation
 All the source files are included in the project. You will have to configure the project to work with your system. It's a pain but has to be done because every development environment is going to be a little different. The project was created utilizing JDK 1.7.80. You will need Groovy to run this.
@@ -39,7 +39,3 @@ for his tutorial [here](http://williammora.com/a-running-game-with-libgdx-part-1
 gap between Scene2D and Box2D.
 
 # Art Assets Taken From
-http://opengameart.org/content/ruined-city-background
-http://opengameart.org/content/grey-concrete-wall-512px
-http://opengameart.org/content/bricks-tiled-texture-64x64
-http://opengameart.org/content/communication-terminal-32x32
